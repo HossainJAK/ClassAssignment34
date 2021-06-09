@@ -130,6 +130,7 @@
 .banner-play-btn i:hover{
     background-color: blue;
     color: white;
+    cursor:pointer;
 }
 .banner-play-btn i::after{
     content: "";
